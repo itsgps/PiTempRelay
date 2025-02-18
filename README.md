@@ -29,3 +29,9 @@ The Below is an example CronTab entry.
 
 0,20,40 * * * * python3 /home/user/allsky/relaycheck.py | mailx -s "AllSky Relay check" user@example.com
 
+Hope this Helps anyone out there.
+
+Regards
+
+Leigh
+
